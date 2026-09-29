@@ -39,5 +39,5 @@ Construí una landing page, un wizard de precalificación multi-paso para que el
 ## Contacto
 
 - Email: marinstvvnn@gmail.com
-- LinkedIn: *(agrega aquí tu URL)*
-- Portafolio: *(agrega aquí cuando esté publicado)*
+- LinkedIn: *https://www.linkedin.com/in/daryl-steeven-marin-corrales-032458324/?isSelfProfile=true*
+- Portafolio: *https://steeven-marin-dev.vercel.app/*
